@@ -5,10 +5,10 @@
 // loop through summing array adding each value 
 
 let util = require('../utils')
-// const filePath = './testInput.txt'
-const filePath = './input.txt'
-// const filePath = './altTestInput.txt'
-// const filePath = './newTest.txt'
+// const filePath = '../../inputs/testInput.txt'
+const filePath = '../../inputs/input.txt'
+// const filePath = '../../inputs/altTestInput.txt'
+// const filePath = '../../inputs/newTest.txt'
 const results = util.createArray(filePath)
 // console.log(results)
 
