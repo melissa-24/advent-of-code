@@ -1,0 +1,10 @@
+Game 31: 5 red, 13 green, 5 blue; 5 green, 12 blue, 5 red; 5 red, 3 green, 5 blue; 2 green, 3 red, 14 blue
+Game 32: 2 blue, 14 red, 13 green; 11 red, 3 green, 1 blue; 9 red, 2 blue, 2 green; 5 blue, 3 red, 2 green; 4 blue, 8 green, 6 red; 12 red, 4 green, 5 blue
+Game 33: 1 green, 15 blue; 1 red, 4 blue; 1 red, 1 green, 5 blue
+Game 34: 1 green, 2 blue, 3 red; 11 red, 10 blue; 6 blue, 3 red
+Game 35: 2 blue, 3 red, 1 green; 1 green, 9 blue, 8 red; 2 blue, 5 red; 2 green, 2 red, 2 blue; 1 red, 10 blue; 5 red, 9 blue
+Game 36: 8 green, 1 red, 2 blue; 7 red, 5 green, 9 blue; 1 red, 10 green, 13 blue; 1 red, 10 green
+Game 37: 1 green, 1 red; 2 green, 2 red; 2 green, 6 red; 7 red; 1 blue, 2 red
+Game 38: 8 red, 7 green, 11 blue; 6 green, 10 blue, 11 red; 13 blue, 18 green, 7 red; 2 red, 7 blue, 12 green
+Game 39: 4 blue, 8 red; 1 blue, 11 red, 2 green; 2 green, 3 blue, 12 red; 6 red, 1 green, 9 blue; 6 red, 1 blue, 1 green
+Game 40: 2 blue, 17 red, 2 green; 4 red, 7 green; 4 blue, 1 green, 10 red; 6 green, 2 red; 6 red, 1 blue, 4 green; 5 green, 9 red, 4 blue

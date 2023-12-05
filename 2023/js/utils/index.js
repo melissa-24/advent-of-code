@@ -1,5 +1,5 @@
 module.exports = {
-    createArray: require('./createArray'),
+    createArrays: require('./convertInputs'),
     convertToInt: require('./convertToInt'),
     helpers: require('./helperFunctions'),
 }
