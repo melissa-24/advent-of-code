@@ -1,0 +1,143 @@
+{
+  "members": {
+    "1229500": {
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "star_index": 0,
+            "get_star_ts": 1607403801
+          },
+          "2": {
+            "get_star_ts": 1607404665,
+            "star_index": 6451
+          }
+        },
+        "2": {
+          "1": {
+            "star_index": 119374,
+            "get_star_ts": 1607462222
+          },
+          "2": {
+            "get_star_ts": 1607463761,
+            "star_index": 121887
+          }
+        },
+        "3": {
+          "1": {
+            "star_index": 1127614,
+            "get_star_ts": 1608436697
+          },
+          "2": {
+            "get_star_ts": 1608436814,
+            "star_index": 1127646
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1608437059,
+            "star_index": 1127736
+          },
+          "2": {
+            "get_star_ts": 1608437141,
+            "star_index": 1127757
+          }
+        },
+        "5": {
+          "1": {
+            "star_index": 1127871,
+            "get_star_ts": 1608437535
+          },
+          "2": {
+            "get_star_ts": 1608437585,
+            "star_index": 1127888
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": 1608437781,
+            "star_index": 1127951
+          },
+          "2": {
+            "star_index": 1127980,
+            "get_star_ts": 1608437848
+          }
+        },
+        "7": {
+          "1": {
+            "get_star_ts": 1608438084,
+            "star_index": 1128046
+          },
+          "2": {
+            "get_star_ts": 1608438141,
+            "star_index": 1128065
+          }
+        },
+        "8": {
+          "1": {
+            "star_index": 1128113,
+            "get_star_ts": 1608438311
+          },
+          "2": {
+            "get_star_ts": 1608438489,
+            "star_index": 1128177
+          }
+        },
+        "9": {
+          "1": {
+            "get_star_ts": 1608438821,
+            "star_index": 1128271
+          },
+          "2": {
+            "get_star_ts": 1608438947,
+            "star_index": 1128309
+          }
+        },
+        "10": {
+          "1": {
+            "star_index": 1128704,
+            "get_star_ts": 1608440087
+          },
+          "2": {
+            "star_index": 1128718,
+            "get_star_ts": 1608440135
+          }
+        }
+      },
+      "id": 1229500,
+      "local_score": 72,
+      "global_score": 0,
+      "last_star_ts": 1608440135,
+      "stars": 20,
+      "name": "Melissa Longenberger"
+    },
+    "3027035": {
+      "id": 3027035,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0,
+      "last_star_ts": 0,
+      "stars": 0,
+      "name": "Joshua D Wise"
+    },
+    "3416917": {
+      "local_score": 0,
+      "completion_day_level": {},
+      "global_score": 0,
+      "id": 3416917,
+      "name": "Joshua Wren",
+      "last_star_ts": 0,
+      "stars": 0
+    },
+    "3582447": {
+      "name": "Benjamin Cooke Williams",
+      "stars": 0,
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0,
+      "id": 3582447
+    }
+  },
+  "event": "2020",
+  "owner_id": 1229500
+}

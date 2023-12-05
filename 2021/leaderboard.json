@@ -1,0 +1,69 @@
+{
+  "event": "2021",
+  "owner_id": 1229500,
+  "members": {
+    "1229500": {
+      "local_score": 0,
+      "completion_day_level": {},
+      "global_score": 0,
+      "id": 1229500,
+      "name": "Melissa Longenberger",
+      "last_star_ts": 0,
+      "stars": 0
+    },
+    "3027035": {
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "star_index": 0,
+            "get_star_ts": 1701545982
+          },
+          "2": {
+            "get_star_ts": 1701548115,
+            "star_index": 6775
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701549967,
+            "star_index": 12457
+          },
+          "2": {
+            "star_index": 15150,
+            "get_star_ts": 1701550839
+          }
+        },
+        "3": {
+          "1": {
+            "star_index": 38576,
+            "get_star_ts": 1701559394
+          }
+        }
+      },
+      "local_score": 20,
+      "global_score": 0,
+      "id": 3027035,
+      "name": "Joshua D Wise",
+      "last_star_ts": 1701559394,
+      "stars": 5
+    },
+    "3416917": {
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0,
+      "id": 3416917,
+      "last_star_ts": 0,
+      "stars": 0,
+      "name": "Joshua Wren"
+    },
+    "3582447": {
+      "stars": 0,
+      "last_star_ts": 0,
+      "name": "Benjamin Cooke Williams",
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0,
+      "id": 3582447
+    }
+  }
+}

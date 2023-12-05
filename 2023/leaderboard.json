@@ -1,0 +1,138 @@
+{
+  "owner_id": 1229500,
+  "members": {
+    "1229500": {
+      "name": "Melissa Longenberger",
+      "stars": 4,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701574700,
+            "star_index": 357280
+          },
+          "2": {
+            "get_star_ts": 1701585686,
+            "star_index": 384506
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701739788,
+            "star_index": 865795
+          },
+          "2": {
+            "get_star_ts": 1701743656,
+            "star_index": 870444
+          }
+        }
+      },
+      "id": 1229500,
+      "local_score": 6,
+      "last_star_ts": 1701743656,
+      "global_score": 0
+    },
+    "3027035": {
+      "id": 3027035,
+      "stars": 5,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701456057,
+            "star_index": 13026
+          },
+          "2": {
+            "get_star_ts": 1701503205,
+            "star_index": 140775
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701513116,
+            "star_index": 177697
+          },
+          "2": {
+            "star_index": 279336,
+            "get_star_ts": 1701540375
+          }
+        },
+        "3": {
+          "1": {
+            "star_index": 584038,
+            "get_star_ts": 1701653158
+          }
+        }
+      },
+      "name": "Joshua D Wise",
+      "global_score": 0,
+      "last_star_ts": 1701653158,
+      "local_score": 17
+    },
+    "3416917": {
+      "global_score": 0,
+      "last_star_ts": 1701583069,
+      "local_score": 14,
+      "id": 3416917,
+      "stars": 4,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "star_index": 0,
+            "get_star_ts": 1701452410
+          },
+          "2": {
+            "star_index": 38300,
+            "get_star_ts": 1701463599
+          }
+        },
+        "2": {
+          "1": {
+            "star_index": 371216,
+            "get_star_ts": 1701582068
+          },
+          "2": {
+            "get_star_ts": 1701583069,
+            "star_index": 375415
+          }
+        }
+      },
+      "name": "Joshua Wren"
+    },
+    "3582447": {
+      "name": "Benjamin Cooke Williams",
+      "id": 3582447,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701590733,
+            "star_index": 397358
+          },
+          "2": {
+            "star_index": 401612,
+            "get_star_ts": 1701592451
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701597981,
+            "star_index": 417545
+          },
+          "2": {
+            "star_index": 422441,
+            "get_star_ts": 1701599431
+          }
+        },
+        "3": {
+          "1": {
+            "star_index": 581933,
+            "get_star_ts": 1701651545
+          }
+        }
+      },
+      "stars": 5,
+      "local_score": 10,
+      "global_score": 0,
+      "last_star_ts": 1701651545
+    }
+  },
+  "event": "2023"
+}

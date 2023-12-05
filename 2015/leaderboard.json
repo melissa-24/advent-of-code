@@ -1,0 +1,42 @@
+{
+  "event": "2015",
+  "members": {
+    "1229500": {
+      "stars": 0,
+      "local_score": 0,
+      "global_score": 0,
+      "id": 1229500,
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "name": "Melissa Longenberger"
+    },
+    "3027035": {
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "name": "Joshua D Wise",
+      "local_score": 0,
+      "stars": 0,
+      "global_score": 0,
+      "id": 3027035
+    },
+    "3416917": {
+      "name": "Joshua Wren",
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "id": 3416917,
+      "global_score": 0,
+      "local_score": 0,
+      "stars": 0
+    },
+    "3582447": {
+      "local_score": 0,
+      "stars": 0,
+      "global_score": 0,
+      "id": 3582447,
+      "completion_day_level": {},
+      "last_star_ts": 0,
+      "name": "Benjamin Cooke Williams"
+    }
+  },
+  "owner_id": 1229500
+}
