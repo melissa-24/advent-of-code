@@ -1,11 +1,11 @@
 const fs = require('fs')
 
 function calculateTotalDistance(leftList, rightList) {
-    // Sort both lists in ascending order
+    // Step 2 - Sort both lists in ascending order
     const sortedLeft = [...leftList].sort((a, b) => a - b)
     const sortedRight = [...rightList].sort((a, b) => a - b)
 
-    // Calculate the total distance by summing the absolute differences
+    // Step 4 - Difference between index and sum that
     let totalDistance = 0
     for (let i = 0; i < sortedLeft.length; i++) {
         totalDistance += Math.abs(sortedLeft[i] - sortedRight[i])
@@ -18,7 +18,7 @@ function readInputFromFile(filePath) {
     const data = fs.readFileSync(filePath, 'utf8')
     const lines = data.trim().split('\n')
 
-    // Separate the numbers into two lists
+    // Step 1 - Separate the numbers into two lists
     const leftList = []
     const rightList = []
     
